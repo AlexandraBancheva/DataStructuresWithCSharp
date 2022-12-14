@@ -1,0 +1,14 @@
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.DeliveriesManager\bin\Debug\netcoreapp3.1\Exam.DeliveriesManager.exe
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.DeliveriesManager\bin\Debug\netcoreapp3.1\Exam.DeliveriesManager.deps.json
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.DeliveriesManager\bin\Debug\netcoreapp3.1\Exam.DeliveriesManager.runtimeconfig.json
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.DeliveriesManager\bin\Debug\netcoreapp3.1\Exam.DeliveriesManager.runtimeconfig.dev.json
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.DeliveriesManager\bin\Debug\netcoreapp3.1\Exam.DeliveriesManager.dll
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.DeliveriesManager\bin\Debug\netcoreapp3.1\Exam.DeliveriesManager.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.DeliveriesManager\obj\Debug\netcoreapp3.1\Exam.DeliveriesManager.csproj.AssemblyReference.cache
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.DeliveriesManager\obj\Debug\netcoreapp3.1\Exam.DeliveriesManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.DeliveriesManager\obj\Debug\netcoreapp3.1\Exam.DeliveriesManager.AssemblyInfoInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.DeliveriesManager\obj\Debug\netcoreapp3.1\Exam.DeliveriesManager.AssemblyInfo.cs
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.DeliveriesManager\obj\Debug\netcoreapp3.1\Exam.DeliveriesManager.csproj.CoreCompileInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.DeliveriesManager\obj\Debug\netcoreapp3.1\Exam.DeliveriesManager.dll
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.DeliveriesManager\obj\Debug\netcoreapp3.1\Exam.DeliveriesManager.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.DeliveriesManager\obj\Debug\netcoreapp3.1\Exam.DeliveriesManager.genruntimeconfig.cache

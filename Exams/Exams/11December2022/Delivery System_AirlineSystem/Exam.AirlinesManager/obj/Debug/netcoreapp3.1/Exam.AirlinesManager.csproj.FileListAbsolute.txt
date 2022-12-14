@@ -1,0 +1,14 @@
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.AirlinesManager\bin\Debug\netcoreapp3.1\Exam.AirlinesManager.exe
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.AirlinesManager\bin\Debug\netcoreapp3.1\Exam.AirlinesManager.deps.json
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.AirlinesManager\bin\Debug\netcoreapp3.1\Exam.AirlinesManager.runtimeconfig.json
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.AirlinesManager\bin\Debug\netcoreapp3.1\Exam.AirlinesManager.runtimeconfig.dev.json
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.AirlinesManager\bin\Debug\netcoreapp3.1\Exam.AirlinesManager.dll
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.AirlinesManager\bin\Debug\netcoreapp3.1\Exam.AirlinesManager.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.AirlinesManager\obj\Debug\netcoreapp3.1\Exam.AirlinesManager.csproj.AssemblyReference.cache
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.AirlinesManager\obj\Debug\netcoreapp3.1\Exam.AirlinesManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.AirlinesManager\obj\Debug\netcoreapp3.1\Exam.AirlinesManager.AssemblyInfoInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.AirlinesManager\obj\Debug\netcoreapp3.1\Exam.AirlinesManager.AssemblyInfo.cs
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.AirlinesManager\obj\Debug\netcoreapp3.1\Exam.AirlinesManager.csproj.CoreCompileInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.AirlinesManager\obj\Debug\netcoreapp3.1\Exam.AirlinesManager.dll
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.AirlinesManager\obj\Debug\netcoreapp3.1\Exam.AirlinesManager.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\01. Delivery System - Correctness_Skeleton\Exam.AirlinesManager\obj\Debug\netcoreapp3.1\Exam.AirlinesManager.genruntimeconfig.cache
