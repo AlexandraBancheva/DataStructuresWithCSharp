@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8+3TosBGCtCjQlvzMjFOtJChDgkeDGcQV0nxYQLofYuSwyZashuP+Ce5mCQSdMfpFnf/PxO+Zph7T9QGD0Z6IA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Data Structures Fundamentals with C#\\07.Heaps-BST-Exercise-Exercises-Skeleton\\07.Heaps-BST-Exercise-Exercises-Skeleton\\05.TopView\\05.TopView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\softuni.wintellect.powercollections\\2.0.0\\softuni.wintellect.powercollections.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

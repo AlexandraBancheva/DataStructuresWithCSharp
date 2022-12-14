@@ -1,0 +1,23 @@
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/04.CookiesProblem/bin/Debug/netstandard2.0/04.CookiesProblem.deps.json
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/04.CookiesProblem/bin/Debug/netstandard2.0/04.CookiesProblem.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/04.CookiesProblem/bin/Debug/netstandard2.0/04.CookiesProblem.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/04.CookiesProblem/obj/Debug/netstandard2.0/04.CookiesProblem.csproj.AssemblyReference.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/04.CookiesProblem/obj/Debug/netstandard2.0/04.CookiesProblem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/04.CookiesProblem/obj/Debug/netstandard2.0/04.CookiesProblem.AssemblyInfoInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/04.CookiesProblem/obj/Debug/netstandard2.0/04.CookiesProblem.AssemblyInfo.cs
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/04.CookiesProblem/obj/Debug/netstandard2.0/04.CookiesProblem.csproj.CoreCompileInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/04.CookiesProblem/obj/Debug/netstandard2.0/04.CookiesProblem.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/04.CookiesProblem/obj/Debug/netstandard2.0/04.CookiesProblem.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\bin\Debug\netstandard2.0\04.CookiesProblem.deps.json
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\bin\Debug\netstandard2.0\04.CookiesProblem.dll
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\bin\Debug\netstandard2.0\04.CookiesProblem.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\bin\Debug\netstandard2.0\03.MinHeap.dll
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\bin\Debug\netstandard2.0\03.MinHeap.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\obj\Debug\netstandard2.0\04.CookiesProblem.csproj.AssemblyReference.cache
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\obj\Debug\netstandard2.0\04.CookiesProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\obj\Debug\netstandard2.0\04.CookiesProblem.AssemblyInfoInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\obj\Debug\netstandard2.0\04.CookiesProblem.AssemblyInfo.cs
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\obj\Debug\netstandard2.0\04.CookiesProblem.csproj.CoreCompileInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\obj\Debug\netstandard2.0\04.CookiesProblem.csproj.CopyComplete
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\obj\Debug\netstandard2.0\04.CookiesProblem.dll
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\obj\Debug\netstandard2.0\04.CookiesProblem.pdb

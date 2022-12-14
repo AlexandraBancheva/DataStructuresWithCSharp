@@ -1,0 +1,20 @@
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/05.TopView/bin/Debug/netstandard2.0/05.TopView.deps.json
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/05.TopView/bin/Debug/netstandard2.0/05.TopView.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/05.TopView/bin/Debug/netstandard2.0/05.TopView.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/05.TopView/obj/Debug/netstandard2.0/05.TopView.csproj.AssemblyReference.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/05.TopView/obj/Debug/netstandard2.0/05.TopView.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/05.TopView/obj/Debug/netstandard2.0/05.TopView.AssemblyInfoInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/05.TopView/obj/Debug/netstandard2.0/05.TopView.AssemblyInfo.cs
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/05.TopView/obj/Debug/netstandard2.0/05.TopView.csproj.CoreCompileInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/05.TopView/obj/Debug/netstandard2.0/05.TopView.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/05.TopView/obj/Debug/netstandard2.0/05.TopView.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\05.TopView\obj\Debug\netstandard2.0\05.TopView.csproj.AssemblyReference.cache
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\05.TopView\obj\Debug\netstandard2.0\05.TopView.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\05.TopView\obj\Debug\netstandard2.0\05.TopView.AssemblyInfoInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\05.TopView\obj\Debug\netstandard2.0\05.TopView.AssemblyInfo.cs
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\05.TopView\obj\Debug\netstandard2.0\05.TopView.csproj.CoreCompileInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\05.TopView\bin\Debug\netstandard2.0\05.TopView.deps.json
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\05.TopView\bin\Debug\netstandard2.0\05.TopView.dll
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\05.TopView\bin\Debug\netstandard2.0\05.TopView.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\05.TopView\obj\Debug\netstandard2.0\05.TopView.dll
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\05.TopView\obj\Debug\netstandard2.0\05.TopView.pdb

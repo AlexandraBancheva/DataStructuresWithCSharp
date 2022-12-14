@@ -1,0 +1,210 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SoftUni.Wintellect.PowerCollections/2.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Wintellect.PowerCollections.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Wintellect.PowerCollections.dll": {}
+        }
+      },
+      "01.BinarySearchTree/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/01.BinarySearchTree.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/01.BinarySearchTree.dll": {}
+        }
+      },
+      "02.LowestCommonAncestor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/02.LowestCommonAncestor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/02.LowestCommonAncestor.dll": {}
+        }
+      },
+      "03.MinHeap/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/03.MinHeap.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/03.MinHeap.dll": {}
+        }
+      },
+      "04.CookiesProblem/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "03.MinHeap": "1.0.0",
+          "SoftUni.Wintellect.PowerCollections": "2.0.0"
+        },
+        "compile": {
+          "bin/placeholder/04.CookiesProblem.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/04.CookiesProblem.dll": {}
+        }
+      },
+      "05.TopView/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "04.CookiesProblem": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/05.TopView.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/05.TopView.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SoftUni.Wintellect.PowerCollections/2.0.0": {
+      "sha512": "jmx9igyEyHA+/0uVYrq6iT6rqgw7CbbLKDd9PD5MuTabBGmpdo+PLqw9LORWSfkEF+C3O4viB2GJxYyd3YYGEA==",
+      "type": "package",
+      "path": "softuni.wintellect.powercollections/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "License.txt",
+        "SoftUni.Wintellect.PowerCollections-logo.png",
+        "lib/net20/Wintellect.PowerCollections.dll",
+        "lib/netstandard2.0/Wintellect.PowerCollections.dll",
+        "softuni.wintellect.powercollections.2.0.0.nupkg.sha512",
+        "softuni.wintellect.powercollections.nuspec"
+      ]
+    },
+    "01.BinarySearchTree/1.0.0": {
+      "type": "project",
+      "path": "../01.BinarySearchTree/01.BinarySearchTree.csproj",
+      "msbuildProject": "../01.BinarySearchTree/01.BinarySearchTree.csproj"
+    },
+    "02.LowestCommonAncestor/1.0.0": {
+      "type": "project",
+      "path": "../02.LowestCommonAncestor/02.LowestCommonAncestor.csproj",
+      "msbuildProject": "../02.LowestCommonAncestor/02.LowestCommonAncestor.csproj"
+    },
+    "03.MinHeap/1.0.0": {
+      "type": "project",
+      "path": "../03.MinHeap/03.MinHeap.csproj",
+      "msbuildProject": "../03.MinHeap/03.MinHeap.csproj"
+    },
+    "04.CookiesProblem/1.0.0": {
+      "type": "project",
+      "path": "../04.CookiesProblem/04.CookiesProblem.csproj",
+      "msbuildProject": "../04.CookiesProblem/04.CookiesProblem.csproj"
+    },
+    "05.TopView/1.0.0": {
+      "type": "project",
+      "path": "../05.TopView/05.TopView.csproj",
+      "msbuildProject": "../05.TopView/05.TopView.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "01.BinarySearchTree >= 1.0.0",
+      "02.LowestCommonAncestor >= 1.0.0",
+      "03.MinHeap >= 1.0.0",
+      "04.CookiesProblem >= 1.0.0",
+      "05.TopView >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Alex\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\SoftUni\\Data Structures Fundamentals with C#\\07.Heaps-BST-Exercise-Exercises-Skeleton\\07.Heaps-BST-Exercise-Exercises-Skeleton\\Playground\\Playground.csproj",
+      "projectName": "Playground",
+      "projectPath": "D:\\SoftUni\\Data Structures Fundamentals with C#\\07.Heaps-BST-Exercise-Exercises-Skeleton\\07.Heaps-BST-Exercise-Exercises-Skeleton\\Playground\\Playground.csproj",
+      "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+      "outputPath": "D:\\SoftUni\\Data Structures Fundamentals with C#\\07.Heaps-BST-Exercise-Exercises-Skeleton\\07.Heaps-BST-Exercise-Exercises-Skeleton\\Playground\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\SoftUni\\Data Structures Fundamentals with C#\\07.Heaps-BST-Exercise-Exercises-Skeleton\\07.Heaps-BST-Exercise-Exercises-Skeleton\\01.BinarySearchTree\\01.BinarySearchTree.csproj": {
+              "projectPath": "D:\\SoftUni\\Data Structures Fundamentals with C#\\07.Heaps-BST-Exercise-Exercises-Skeleton\\07.Heaps-BST-Exercise-Exercises-Skeleton\\01.BinarySearchTree\\01.BinarySearchTree.csproj"
+            },
+            "D:\\SoftUni\\Data Structures Fundamentals with C#\\07.Heaps-BST-Exercise-Exercises-Skeleton\\07.Heaps-BST-Exercise-Exercises-Skeleton\\02.LowestCommonAncestor\\02.LowestCommonAncestor.csproj": {
+              "projectPath": "D:\\SoftUni\\Data Structures Fundamentals with C#\\07.Heaps-BST-Exercise-Exercises-Skeleton\\07.Heaps-BST-Exercise-Exercises-Skeleton\\02.LowestCommonAncestor\\02.LowestCommonAncestor.csproj"
+            },
+            "D:\\SoftUni\\Data Structures Fundamentals with C#\\07.Heaps-BST-Exercise-Exercises-Skeleton\\07.Heaps-BST-Exercise-Exercises-Skeleton\\03.MinHeap\\03.MinHeap.csproj": {
+              "projectPath": "D:\\SoftUni\\Data Structures Fundamentals with C#\\07.Heaps-BST-Exercise-Exercises-Skeleton\\07.Heaps-BST-Exercise-Exercises-Skeleton\\03.MinHeap\\03.MinHeap.csproj"
+            },
+            "D:\\SoftUni\\Data Structures Fundamentals with C#\\07.Heaps-BST-Exercise-Exercises-Skeleton\\07.Heaps-BST-Exercise-Exercises-Skeleton\\04.CookiesProblem\\04.CookiesProblem.csproj": {
+              "projectPath": "D:\\SoftUni\\Data Structures Fundamentals with C#\\07.Heaps-BST-Exercise-Exercises-Skeleton\\07.Heaps-BST-Exercise-Exercises-Skeleton\\04.CookiesProblem\\04.CookiesProblem.csproj"
+            },
+            "D:\\SoftUni\\Data Structures Fundamentals with C#\\07.Heaps-BST-Exercise-Exercises-Skeleton\\07.Heaps-BST-Exercise-Exercises-Skeleton\\05.TopView\\05.TopView.csproj": {
+              "projectPath": "D:\\SoftUni\\Data Structures Fundamentals with C#\\07.Heaps-BST-Exercise-Exercises-Skeleton\\07.Heaps-BST-Exercise-Exercises-Skeleton\\05.TopView\\05.TopView.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.29, 3.1.29]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

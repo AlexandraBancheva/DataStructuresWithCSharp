@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8oyfh0IsJD/Hp0/G2rlqBkfFQ9GG/uccvVYNGzp1cbY/woEXjQCn9Qws6Ddd/+9NGvXvouf8FkzWTDWLk4xgkw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Data Structures Fundamentals with C#\\07.Heaps-BST-Exercise-Exercises-Skeleton\\07.Heaps-BST-Exercise-Exercises-Skeleton\\04.CookiesProblem\\04.CookiesProblem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\softuni.wintellect.powercollections\\2.0.0\\softuni.wintellect.powercollections.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

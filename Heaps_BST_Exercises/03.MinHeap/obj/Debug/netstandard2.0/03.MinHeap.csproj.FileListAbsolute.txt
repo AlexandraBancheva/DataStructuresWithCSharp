@@ -1,0 +1,20 @@
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/03.MinHeap/bin/Debug/netstandard2.0/03.MinHeap.deps.json
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/03.MinHeap/bin/Debug/netstandard2.0/03.MinHeap.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/03.MinHeap/bin/Debug/netstandard2.0/03.MinHeap.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/03.MinHeap/obj/Debug/netstandard2.0/03.MinHeap.csproj.AssemblyReference.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/03.MinHeap/obj/Debug/netstandard2.0/03.MinHeap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/03.MinHeap/obj/Debug/netstandard2.0/03.MinHeap.AssemblyInfoInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/03.MinHeap/obj/Debug/netstandard2.0/03.MinHeap.AssemblyInfo.cs
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/03.MinHeap/obj/Debug/netstandard2.0/03.MinHeap.csproj.CoreCompileInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/03.MinHeap/obj/Debug/netstandard2.0/03.MinHeap.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/03.MinHeap/obj/Debug/netstandard2.0/03.MinHeap.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\bin\Debug\netstandard2.0\03.MinHeap.deps.json
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\bin\Debug\netstandard2.0\03.MinHeap.dll
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\bin\Debug\netstandard2.0\03.MinHeap.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.csproj.AssemblyReference.cache
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.AssemblyInfoInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.AssemblyInfo.cs
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.csproj.CoreCompileInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.dll
+D:\SoftUni\Data Structures Fundamentals with C#\07.Heaps-BST-Exercise-Exercises-Skeleton\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.pdb

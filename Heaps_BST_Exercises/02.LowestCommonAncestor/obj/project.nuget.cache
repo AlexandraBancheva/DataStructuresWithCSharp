@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MnbB9lvlUDl2CNppCRtllVS9z8AR7DVwKInZERLGgPaEX7BuCDMhzLtXKNtxK0TQS2WrUJghxds/f74Jv51ckQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Data Structures Fundamentals with C#\\07.Heaps-BST-Exercise-Exercises-Skeleton\\07.Heaps-BST-Exercise-Exercises-Skeleton\\02.LowestCommonAncestor\\02.LowestCommonAncestor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

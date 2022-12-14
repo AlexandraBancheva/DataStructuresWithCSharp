@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mttDOH3ATtm8fhkf8zxgikLVKFir1y3Yjs+wjwsnLyUG25BD+77KbZX2rtfGo/fYnJuY7K9VpVtkjGu/yR1M1Q==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Data Structures Fundamentals with C#\\07.Heaps-BST-Exercise-Exercises-Skeleton\\07.Heaps-BST-Exercise-Exercises-Skeleton\\Playground\\Playground.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\softuni.wintellect.powercollections\\2.0.0\\softuni.wintellect.powercollections.2.0.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
