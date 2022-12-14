@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZWuRHyR6zn9eEM3A8RT2bsv6PzJdgCj63/hbrsKg2IJWRyDIvm3SApCOXcfOtPLOAuNE+54TweRCzgFfer6/Kw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Data Structures Fundamentals with C#\\01. Inventory_Skeleton\\02.LegionSystem\\02.LegionSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
