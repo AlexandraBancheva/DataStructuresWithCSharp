@@ -1,0 +1,29 @@
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Tree/bin/Debug/netstandard2.0/Tree.deps.json
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Tree/bin/Debug/netstandard2.0/Tree.dll
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Tree/bin/Debug/netstandard2.0/Tree.pdb
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Tree/obj/Debug/netstandard2.0/Tree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Tree/obj/Debug/netstandard2.0/Tree.AssemblyInfoInputs.cache
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Tree/obj/Debug/netstandard2.0/Tree.AssemblyInfo.cs
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Tree/obj/Debug/netstandard2.0/Tree.csproj.CoreCompileInputs.cache
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Tree/obj/Debug/netstandard2.0/Tree.dll
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Tree/obj/Debug/netstandard2.0/Tree.pdb
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Tree/obj/Debug/netstandard2.0/Tree.csproj.AssemblyReference.cache
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Tree/bin/Debug/netstandard2.0/Tree.deps.json
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Tree/bin/Debug/netstandard2.0/Tree.dll
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Tree/bin/Debug/netstandard2.0/Tree.pdb
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Tree/obj/Debug/netstandard2.0/Tree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Tree/obj/Debug/netstandard2.0/Tree.AssemblyInfoInputs.cache
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Tree/obj/Debug/netstandard2.0/Tree.AssemblyInfo.cs
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Tree/obj/Debug/netstandard2.0/Tree.csproj.CoreCompileInputs.cache
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Tree/obj/Debug/netstandard2.0/Tree.dll
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Tree/obj/Debug/netstandard2.0/Tree.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\bin\Debug\netstandard2.0\Tree.deps.json
+D:\SoftUni\Data Structures Fundamentals with C#\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\bin\Debug\netstandard2.0\Tree.dll
+D:\SoftUni\Data Structures Fundamentals with C#\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\bin\Debug\netstandard2.0\Tree.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\obj\Debug\netstandard2.0\Tree.csproj.AssemblyReference.cache
+D:\SoftUni\Data Structures Fundamentals with C#\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\obj\Debug\netstandard2.0\Tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Data Structures Fundamentals with C#\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\obj\Debug\netstandard2.0\Tree.AssemblyInfoInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\obj\Debug\netstandard2.0\Tree.AssemblyInfo.cs
+D:\SoftUni\Data Structures Fundamentals with C#\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\obj\Debug\netstandard2.0\Tree.csproj.CoreCompileInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\obj\Debug\netstandard2.0\Tree.dll
+D:\SoftUni\Data Structures Fundamentals with C#\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\obj\Debug\netstandard2.0\Tree.pdb
