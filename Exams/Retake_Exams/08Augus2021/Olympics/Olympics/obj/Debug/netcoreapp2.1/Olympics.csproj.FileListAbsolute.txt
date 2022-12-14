@@ -1,0 +1,13 @@
+D:\SoftUni\Data Structures Fundamentals with C#\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics\bin\Debug\netcoreapp2.1\Olympics.deps.json
+D:\SoftUni\Data Structures Fundamentals with C#\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics\bin\Debug\netcoreapp2.1\Olympics.runtimeconfig.json
+D:\SoftUni\Data Structures Fundamentals with C#\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics\bin\Debug\netcoreapp2.1\Olympics.runtimeconfig.dev.json
+D:\SoftUni\Data Structures Fundamentals with C#\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics\bin\Debug\netcoreapp2.1\Olympics.dll
+D:\SoftUni\Data Structures Fundamentals with C#\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics\bin\Debug\netcoreapp2.1\Olympics.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics\obj\Debug\netcoreapp2.1\Olympics.csproj.AssemblyReference.cache
+D:\SoftUni\Data Structures Fundamentals with C#\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics\obj\Debug\netcoreapp2.1\Olympics.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Data Structures Fundamentals with C#\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics\obj\Debug\netcoreapp2.1\Olympics.AssemblyInfoInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics\obj\Debug\netcoreapp2.1\Olympics.AssemblyInfo.cs
+D:\SoftUni\Data Structures Fundamentals with C#\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics\obj\Debug\netcoreapp2.1\Olympics.csproj.CoreCompileInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics\obj\Debug\netcoreapp2.1\Olympics.dll
+D:\SoftUni\Data Structures Fundamentals with C#\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics\obj\Debug\netcoreapp2.1\Olympics.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\01. Olympics - Correctness_Skeleton(.NET CORE)\Olympics\obj\Debug\netcoreapp2.1\Olympics.genruntimeconfig.cache

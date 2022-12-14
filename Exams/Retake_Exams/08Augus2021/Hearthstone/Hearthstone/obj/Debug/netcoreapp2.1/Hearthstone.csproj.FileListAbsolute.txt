@@ -1,0 +1,13 @@
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone\bin\Debug\netcoreapp2.1\Hearthstone.deps.json
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone\bin\Debug\netcoreapp2.1\Hearthstone.runtimeconfig.json
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone\bin\Debug\netcoreapp2.1\Hearthstone.runtimeconfig.dev.json
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone\bin\Debug\netcoreapp2.1\Hearthstone.dll
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone\bin\Debug\netcoreapp2.1\Hearthstone.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone\obj\Debug\netcoreapp2.1\Hearthstone.csproj.AssemblyReference.cache
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone\obj\Debug\netcoreapp2.1\Hearthstone.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone\obj\Debug\netcoreapp2.1\Hearthstone.AssemblyInfoInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone\obj\Debug\netcoreapp2.1\Hearthstone.AssemblyInfo.cs
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone\obj\Debug\netcoreapp2.1\Hearthstone.csproj.CoreCompileInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone\obj\Debug\netcoreapp2.1\Hearthstone.dll
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone\obj\Debug\netcoreapp2.1\Hearthstone.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone\obj\Debug\netcoreapp2.1\Hearthstone.genruntimeconfig.cache

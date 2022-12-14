@@ -1,0 +1,41 @@
+C:\Users\User\Desktop\Test\Skeletons-C#\Hearthstone\Hearthstone.Tests\obj\Debug\netcoreapp2.1\Hearthstone.Tests.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Test\Skeletons-C#\Hearthstone\Hearthstone.Tests\obj\Debug\netcoreapp2.1\Hearthstone.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Test\Skeletons-C#\Hearthstone\Hearthstone.Tests\obj\Debug\netcoreapp2.1\Hearthstone.Tests.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Test\Skeletons-C#\Hearthstone\Hearthstone.Tests\obj\Debug\netcoreapp2.1\Hearthstone.Tests.AssemblyInfo.cs
+C:\Users\User\Desktop\Test\Skeletons-C#\Hearthstone\Hearthstone.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\User\Desktop\Test\Skeletons-C#\Hearthstone\Hearthstone.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\User\Desktop\Test\Skeletons-C#\Hearthstone\Hearthstone.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\User\Desktop\Test\Skeletons-C#\Hearthstone\Hearthstone.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\User\Desktop\Test\Skeletons-C#\Hearthstone\Hearthstone.Tests\bin\Debug\netcoreapp2.1\Hearthstone.Tests.deps.json
+C:\Users\User\Desktop\Test\Skeletons-C#\Hearthstone\Hearthstone.Tests\bin\Debug\netcoreapp2.1\Hearthstone.Tests.runtimeconfig.json
+C:\Users\User\Desktop\Test\Skeletons-C#\Hearthstone\Hearthstone.Tests\bin\Debug\netcoreapp2.1\Hearthstone.Tests.runtimeconfig.dev.json
+C:\Users\User\Desktop\Test\Skeletons-C#\Hearthstone\Hearthstone.Tests\bin\Debug\netcoreapp2.1\Hearthstone.Tests.dll
+C:\Users\User\Desktop\Test\Skeletons-C#\Hearthstone\Hearthstone.Tests\bin\Debug\netcoreapp2.1\Hearthstone.Tests.pdb
+C:\Users\User\Desktop\Test\Skeletons-C#\Hearthstone\Hearthstone.Tests\bin\Debug\netcoreapp2.1\Hearthstone.dll
+C:\Users\User\Desktop\Test\Skeletons-C#\Hearthstone\Hearthstone.Tests\bin\Debug\netcoreapp2.1\Hearthstone.pdb
+C:\Users\User\Desktop\Test\Skeletons-C#\Hearthstone\Hearthstone.Tests\obj\Debug\netcoreapp2.1\Hearthstone.Tests.csproj.CopyComplete
+C:\Users\User\Desktop\Test\Skeletons-C#\Hearthstone\Hearthstone.Tests\obj\Debug\netcoreapp2.1\Hearthstone.Tests.dll
+C:\Users\User\Desktop\Test\Skeletons-C#\Hearthstone\Hearthstone.Tests\obj\Debug\netcoreapp2.1\Hearthstone.Tests.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone.Tests\bin\Debug\netcoreapp2.1\Hearthstone.deps.json
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone.Tests\bin\Debug\netcoreapp2.1\Hearthstone.runtimeconfig.json
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone.Tests\bin\Debug\netcoreapp2.1\Hearthstone.runtimeconfig.dev.json
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone.Tests\bin\Debug\netcoreapp2.1\Hearthstone.Tests.deps.json
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone.Tests\bin\Debug\netcoreapp2.1\Hearthstone.Tests.runtimeconfig.json
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone.Tests\bin\Debug\netcoreapp2.1\Hearthstone.Tests.runtimeconfig.dev.json
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone.Tests\bin\Debug\netcoreapp2.1\Hearthstone.Tests.dll
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone.Tests\bin\Debug\netcoreapp2.1\Hearthstone.Tests.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone.Tests\bin\Debug\netcoreapp2.1\Hearthstone.dll
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone.Tests\bin\Debug\netcoreapp2.1\Hearthstone.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone.Tests\obj\Debug\netcoreapp2.1\Hearthstone.Tests.csproj.AssemblyReference.cache
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone.Tests\obj\Debug\netcoreapp2.1\Hearthstone.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone.Tests\obj\Debug\netcoreapp2.1\Hearthstone.Tests.AssemblyInfoInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone.Tests\obj\Debug\netcoreapp2.1\Hearthstone.Tests.AssemblyInfo.cs
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone.Tests\obj\Debug\netcoreapp2.1\Hearthstone.Tests.csproj.CoreCompileInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone.Tests\obj\Debug\netcoreapp2.1\Hearthstone.Tests.csproj.CopyComplete
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone.Tests\obj\Debug\netcoreapp2.1\Hearthstone.Tests.dll
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone.Tests\obj\Debug\netcoreapp2.1\Hearthstone.Tests.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\02. Hearthstone - Correctness_Skeleton (.NET Core)\Hearthstone.Tests\obj\Debug\netcoreapp2.1\Hearthstone.Tests.genruntimeconfig.cache
