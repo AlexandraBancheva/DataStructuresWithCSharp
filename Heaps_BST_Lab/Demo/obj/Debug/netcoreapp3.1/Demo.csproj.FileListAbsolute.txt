@@ -1,0 +1,37 @@
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/06.Heaps-BST/06.Heaps-BST-Lab-Skeleton/Demo/bin/Debug/netcoreapp3.1/Demo.deps.json
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/06.Heaps-BST/06.Heaps-BST-Lab-Skeleton/Demo/bin/Debug/netcoreapp3.1/Demo.runtimeconfig.json
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/06.Heaps-BST/06.Heaps-BST-Lab-Skeleton/Demo/bin/Debug/netcoreapp3.1/Demo.runtimeconfig.dev.json
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/06.Heaps-BST/06.Heaps-BST-Lab-Skeleton/Demo/bin/Debug/netcoreapp3.1/Demo.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/06.Heaps-BST/06.Heaps-BST-Lab-Skeleton/Demo/bin/Debug/netcoreapp3.1/Demo.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/06.Heaps-BST/06.Heaps-BST-Lab-Skeleton/Demo/bin/Debug/netcoreapp3.1/02.BinarySearchTree.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/06.Heaps-BST/06.Heaps-BST-Lab-Skeleton/Demo/bin/Debug/netcoreapp3.1/03.MaxHeap.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/06.Heaps-BST/06.Heaps-BST-Lab-Skeleton/Demo/bin/Debug/netcoreapp3.1/02.BinarySearchTree.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/06.Heaps-BST/06.Heaps-BST-Lab-Skeleton/Demo/bin/Debug/netcoreapp3.1/03.MaxHeap.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/06.Heaps-BST/06.Heaps-BST-Lab-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.AssemblyReference.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/06.Heaps-BST/06.Heaps-BST-Lab-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/06.Heaps-BST/06.Heaps-BST-Lab-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.AssemblyInfoInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/06.Heaps-BST/06.Heaps-BST-Lab-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.AssemblyInfo.cs
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/06.Heaps-BST/06.Heaps-BST-Lab-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.CoreCompileInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/06.Heaps-BST/06.Heaps-BST-Lab-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.CopyComplete
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/06.Heaps-BST/06.Heaps-BST-Lab-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/06.Heaps-BST/06.Heaps-BST-Lab-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/06.Heaps-BST/06.Heaps-BST-Lab-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.genruntimeconfig.cache
+D:\SoftUni\Data Structures Fundamentals with C#\06.Heaps-BST-Lab-Skeleton\06.Heaps-BST-Lab-Skeleton\Demo\bin\Debug\netcoreapp3.1\Demo.exe
+D:\SoftUni\Data Structures Fundamentals with C#\06.Heaps-BST-Lab-Skeleton\06.Heaps-BST-Lab-Skeleton\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+D:\SoftUni\Data Structures Fundamentals with C#\06.Heaps-BST-Lab-Skeleton\06.Heaps-BST-Lab-Skeleton\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.json
+D:\SoftUni\Data Structures Fundamentals with C#\06.Heaps-BST-Lab-Skeleton\06.Heaps-BST-Lab-Skeleton\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.dev.json
+D:\SoftUni\Data Structures Fundamentals with C#\06.Heaps-BST-Lab-Skeleton\06.Heaps-BST-Lab-Skeleton\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+D:\SoftUni\Data Structures Fundamentals with C#\06.Heaps-BST-Lab-Skeleton\06.Heaps-BST-Lab-Skeleton\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\06.Heaps-BST-Lab-Skeleton\06.Heaps-BST-Lab-Skeleton\Demo\bin\Debug\netcoreapp3.1\02.BinarySearchTree.dll
+D:\SoftUni\Data Structures Fundamentals with C#\06.Heaps-BST-Lab-Skeleton\06.Heaps-BST-Lab-Skeleton\Demo\bin\Debug\netcoreapp3.1\03.MaxHeap.dll
+D:\SoftUni\Data Structures Fundamentals with C#\06.Heaps-BST-Lab-Skeleton\06.Heaps-BST-Lab-Skeleton\Demo\bin\Debug\netcoreapp3.1\02.BinarySearchTree.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\06.Heaps-BST-Lab-Skeleton\06.Heaps-BST-Lab-Skeleton\Demo\bin\Debug\netcoreapp3.1\03.MaxHeap.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\06.Heaps-BST-Lab-Skeleton\06.Heaps-BST-Lab-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.AssemblyReference.cache
+D:\SoftUni\Data Structures Fundamentals with C#\06.Heaps-BST-Lab-Skeleton\06.Heaps-BST-Lab-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Data Structures Fundamentals with C#\06.Heaps-BST-Lab-Skeleton\06.Heaps-BST-Lab-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\06.Heaps-BST-Lab-Skeleton\06.Heaps-BST-Lab-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+D:\SoftUni\Data Structures Fundamentals with C#\06.Heaps-BST-Lab-Skeleton\06.Heaps-BST-Lab-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\06.Heaps-BST-Lab-Skeleton\06.Heaps-BST-Lab-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CopyComplete
+D:\SoftUni\Data Structures Fundamentals with C#\06.Heaps-BST-Lab-Skeleton\06.Heaps-BST-Lab-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+D:\SoftUni\Data Structures Fundamentals with C#\06.Heaps-BST-Lab-Skeleton\06.Heaps-BST-Lab-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\06.Heaps-BST-Lab-Skeleton\06.Heaps-BST-Lab-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wa8i2QBRTNxcqC0i3LX5lzfXPc7SKfC2fhdrq+K1S0pEoHUZLC98aFBQpktpfmiNTW1XrrZz+KyhJavEo09SAw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Data Structures Fundamentals with C#\\06.Heaps-BST-Lab-Skeleton\\06.Heaps-BST-Lab-Skeleton\\03.MaxHeap\\03.MaxHeap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

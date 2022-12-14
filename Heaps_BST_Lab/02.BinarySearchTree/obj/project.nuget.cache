@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "savktEA5ANkaVhsJhxugDCADBTWGKojAiP7cCbyvWM/0TUKJy/s7+0Sp5R/MQaN+mmtajbzzDkHCT7jOK/lMEg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Data Structures Fundamentals with C#\\06.Heaps-BST-Lab-Skeleton\\06.Heaps-BST-Lab-Skeleton\\02.BinarySearchTree\\02.BinarySearchTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

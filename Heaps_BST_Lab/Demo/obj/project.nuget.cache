@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W+pQzgjs6EqXiVD89EEUTN1eu4+BAJ3Z2N/lgNtJSpD6iYANwHt7+Ivj2hRojBU4LmfUlRITQWmpL4uijLpROg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Data Structures Fundamentals with C#\\06.Heaps-BST-Lab-Skeleton\\06.Heaps-BST-Lab-Skeleton\\Demo\\Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
