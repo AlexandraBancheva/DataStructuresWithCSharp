@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tCZQDG2Ggo+hRC9nMT3GbG5fyhF27hbFdAULuPJWQN0BWFoUYKbfkLc1qxPPieyZH0I/Z6X0y9OPzZkpm0fXEw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Data Structures Fundamentals with C#\\Exam-Skeleton\\Exam-Skeleton\\Demo\\Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,73 @@
+/Users/ssheytanov/Projects/Feb-2022-Exam/Demo/bin/Debug/netcoreapp3.1/Demo.deps.json
+/Users/ssheytanov/Projects/Feb-2022-Exam/Demo/bin/Debug/netcoreapp3.1/Demo.runtimeconfig.json
+/Users/ssheytanov/Projects/Feb-2022-Exam/Demo/bin/Debug/netcoreapp3.1/Demo.runtimeconfig.dev.json
+/Users/ssheytanov/Projects/Feb-2022-Exam/Demo/bin/Debug/netcoreapp3.1/Demo.dll
+/Users/ssheytanov/Projects/Feb-2022-Exam/Demo/bin/Debug/netcoreapp3.1/Demo.pdb
+/Users/ssheytanov/Projects/Feb-2022-Exam/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.AssemblyReference.cache
+/Users/ssheytanov/Projects/Feb-2022-Exam/Demo/obj/Debug/netcoreapp3.1/Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssheytanov/Projects/Feb-2022-Exam/Demo/obj/Debug/netcoreapp3.1/Demo.AssemblyInfoInputs.cache
+/Users/ssheytanov/Projects/Feb-2022-Exam/Demo/obj/Debug/netcoreapp3.1/Demo.AssemblyInfo.cs
+/Users/ssheytanov/Projects/Feb-2022-Exam/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.CoreCompileInputs.cache
+/Users/ssheytanov/Projects/Feb-2022-Exam/Demo/obj/Debug/netcoreapp3.1/Demo.dll
+/Users/ssheytanov/Projects/Feb-2022-Exam/Demo/obj/Debug/netcoreapp3.1/Demo.pdb
+/Users/ssheytanov/Projects/Feb-2022-Exam/Demo/obj/Debug/netcoreapp3.1/Demo.genruntimeconfig.cache
+/Users/ssheytanov/Projects/Feb-2022-Exam/Demo/bin/Debug/netcoreapp3.1/CouponOps.dll
+/Users/ssheytanov/Projects/Feb-2022-Exam/Demo/bin/Debug/netcoreapp3.1/VaccOps.dll
+/Users/ssheytanov/Projects/Feb-2022-Exam/Demo/bin/Debug/netcoreapp3.1/VaccOps.pdb
+/Users/ssheytanov/Projects/Feb-2022-Exam/Demo/bin/Debug/netcoreapp3.1/CouponOps.pdb
+/Users/ssheytanov/Projects/Feb-2022-Exam/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.CopyComplete
+/Users/ssheytanov/Projects/Feb-2022-Exam-Solution/Demo/bin/Debug/netcoreapp3.1/Demo.deps.json
+/Users/ssheytanov/Projects/Feb-2022-Exam-Solution/Demo/bin/Debug/netcoreapp3.1/Demo.runtimeconfig.json
+/Users/ssheytanov/Projects/Feb-2022-Exam-Solution/Demo/bin/Debug/netcoreapp3.1/Demo.runtimeconfig.dev.json
+/Users/ssheytanov/Projects/Feb-2022-Exam-Solution/Demo/bin/Debug/netcoreapp3.1/Demo.dll
+/Users/ssheytanov/Projects/Feb-2022-Exam-Solution/Demo/bin/Debug/netcoreapp3.1/Demo.pdb
+/Users/ssheytanov/Projects/Feb-2022-Exam-Solution/Demo/bin/Debug/netcoreapp3.1/CouponOps.dll
+/Users/ssheytanov/Projects/Feb-2022-Exam-Solution/Demo/bin/Debug/netcoreapp3.1/VaccOps.dll
+/Users/ssheytanov/Projects/Feb-2022-Exam-Solution/Demo/bin/Debug/netcoreapp3.1/VaccOps.pdb
+/Users/ssheytanov/Projects/Feb-2022-Exam-Solution/Demo/bin/Debug/netcoreapp3.1/CouponOps.pdb
+/Users/ssheytanov/Projects/Feb-2022-Exam-Solution/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.AssemblyReference.cache
+/Users/ssheytanov/Projects/Feb-2022-Exam-Solution/Demo/obj/Debug/netcoreapp3.1/Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssheytanov/Projects/Feb-2022-Exam-Solution/Demo/obj/Debug/netcoreapp3.1/Demo.AssemblyInfoInputs.cache
+/Users/ssheytanov/Projects/Feb-2022-Exam-Solution/Demo/obj/Debug/netcoreapp3.1/Demo.AssemblyInfo.cs
+/Users/ssheytanov/Projects/Feb-2022-Exam-Solution/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.CoreCompileInputs.cache
+/Users/ssheytanov/Projects/Feb-2022-Exam-Solution/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.CopyComplete
+/Users/ssheytanov/Projects/Feb-2022-Exam-Solution/Demo/obj/Debug/netcoreapp3.1/Demo.dll
+/Users/ssheytanov/Projects/Feb-2022-Exam-Solution/Demo/obj/Debug/netcoreapp3.1/Demo.pdb
+/Users/ssheytanov/Projects/Feb-2022-Exam-Solution/Demo/obj/Debug/netcoreapp3.1/Demo.genruntimeconfig.cache
+/Users/ssheytanov/Projects/Feb-2022-Exam-Skeleton/Demo/bin/Debug/netcoreapp3.1/Demo.deps.json
+/Users/ssheytanov/Projects/Feb-2022-Exam-Skeleton/Demo/bin/Debug/netcoreapp3.1/Demo.runtimeconfig.json
+/Users/ssheytanov/Projects/Feb-2022-Exam-Skeleton/Demo/bin/Debug/netcoreapp3.1/Demo.runtimeconfig.dev.json
+/Users/ssheytanov/Projects/Feb-2022-Exam-Skeleton/Demo/bin/Debug/netcoreapp3.1/Demo.dll
+/Users/ssheytanov/Projects/Feb-2022-Exam-Skeleton/Demo/bin/Debug/netcoreapp3.1/Demo.pdb
+/Users/ssheytanov/Projects/Feb-2022-Exam-Skeleton/Demo/bin/Debug/netcoreapp3.1/CouponOps.dll
+/Users/ssheytanov/Projects/Feb-2022-Exam-Skeleton/Demo/bin/Debug/netcoreapp3.1/VaccOps.dll
+/Users/ssheytanov/Projects/Feb-2022-Exam-Skeleton/Demo/bin/Debug/netcoreapp3.1/VaccOps.pdb
+/Users/ssheytanov/Projects/Feb-2022-Exam-Skeleton/Demo/bin/Debug/netcoreapp3.1/CouponOps.pdb
+/Users/ssheytanov/Projects/Feb-2022-Exam-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.AssemblyReference.cache
+/Users/ssheytanov/Projects/Feb-2022-Exam-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssheytanov/Projects/Feb-2022-Exam-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.AssemblyInfoInputs.cache
+/Users/ssheytanov/Projects/Feb-2022-Exam-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.AssemblyInfo.cs
+/Users/ssheytanov/Projects/Feb-2022-Exam-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.CoreCompileInputs.cache
+/Users/ssheytanov/Projects/Feb-2022-Exam-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.CopyComplete
+/Users/ssheytanov/Projects/Feb-2022-Exam-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.dll
+/Users/ssheytanov/Projects/Feb-2022-Exam-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.pdb
+/Users/ssheytanov/Projects/Feb-2022-Exam-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.genruntimeconfig.cache
+D:\SoftUni\Data Structures Fundamentals with C#\Exam-Skeleton\Exam-Skeleton\Demo\bin\Debug\netcoreapp3.1\Demo.exe
+D:\SoftUni\Data Structures Fundamentals with C#\Exam-Skeleton\Exam-Skeleton\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+D:\SoftUni\Data Structures Fundamentals with C#\Exam-Skeleton\Exam-Skeleton\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.json
+D:\SoftUni\Data Structures Fundamentals with C#\Exam-Skeleton\Exam-Skeleton\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.dev.json
+D:\SoftUni\Data Structures Fundamentals with C#\Exam-Skeleton\Exam-Skeleton\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+D:\SoftUni\Data Structures Fundamentals with C#\Exam-Skeleton\Exam-Skeleton\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\Exam-Skeleton\Exam-Skeleton\Demo\bin\Debug\netcoreapp3.1\CouponOps.dll
+D:\SoftUni\Data Structures Fundamentals with C#\Exam-Skeleton\Exam-Skeleton\Demo\bin\Debug\netcoreapp3.1\VaccOps.dll
+D:\SoftUni\Data Structures Fundamentals with C#\Exam-Skeleton\Exam-Skeleton\Demo\bin\Debug\netcoreapp3.1\VaccOps.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\Exam-Skeleton\Exam-Skeleton\Demo\bin\Debug\netcoreapp3.1\CouponOps.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\Exam-Skeleton\Exam-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.AssemblyReference.cache
+D:\SoftUni\Data Structures Fundamentals with C#\Exam-Skeleton\Exam-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Data Structures Fundamentals with C#\Exam-Skeleton\Exam-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\Exam-Skeleton\Exam-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+D:\SoftUni\Data Structures Fundamentals with C#\Exam-Skeleton\Exam-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\Exam-Skeleton\Exam-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CopyComplete
+D:\SoftUni\Data Structures Fundamentals with C#\Exam-Skeleton\Exam-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+D:\SoftUni\Data Structures Fundamentals with C#\Exam-Skeleton\Exam-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\Exam-Skeleton\Exam-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.genruntimeconfig.cache
