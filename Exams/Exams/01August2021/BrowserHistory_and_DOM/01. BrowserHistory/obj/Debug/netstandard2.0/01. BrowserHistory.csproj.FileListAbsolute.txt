@@ -1,0 +1,10 @@
+D:\SoftUni\Data Structures Fundamentals with C#\01. BrowserHistory_Skeleton\01. BrowserHistory\bin\Debug\netstandard2.0\01. BrowserHistory.deps.json
+D:\SoftUni\Data Structures Fundamentals with C#\01. BrowserHistory_Skeleton\01. BrowserHistory\bin\Debug\netstandard2.0\01. BrowserHistory.dll
+D:\SoftUni\Data Structures Fundamentals with C#\01. BrowserHistory_Skeleton\01. BrowserHistory\bin\Debug\netstandard2.0\01. BrowserHistory.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\01. BrowserHistory_Skeleton\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.csproj.AssemblyReference.cache
+D:\SoftUni\Data Structures Fundamentals with C#\01. BrowserHistory_Skeleton\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Data Structures Fundamentals with C#\01. BrowserHistory_Skeleton\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.AssemblyInfoInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\01. BrowserHistory_Skeleton\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.AssemblyInfo.cs
+D:\SoftUni\Data Structures Fundamentals with C#\01. BrowserHistory_Skeleton\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.csproj.CoreCompileInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\01. BrowserHistory_Skeleton\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.dll
+D:\SoftUni\Data Structures Fundamentals with C#\01. BrowserHistory_Skeleton\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.pdb

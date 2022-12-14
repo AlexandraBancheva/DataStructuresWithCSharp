@@ -1,0 +1,10 @@
+D:\SoftUni\Data Structures Fundamentals with C#\01. BrowserHistory_Skeleton\02.DOM\bin\Debug\netstandard2.0\02.DOM.deps.json
+D:\SoftUni\Data Structures Fundamentals with C#\01. BrowserHistory_Skeleton\02.DOM\bin\Debug\netstandard2.0\02.DOM.dll
+D:\SoftUni\Data Structures Fundamentals with C#\01. BrowserHistory_Skeleton\02.DOM\bin\Debug\netstandard2.0\02.DOM.pdb
+D:\SoftUni\Data Structures Fundamentals with C#\01. BrowserHistory_Skeleton\02.DOM\obj\Debug\netstandard2.0\02.DOM.csproj.AssemblyReference.cache
+D:\SoftUni\Data Structures Fundamentals with C#\01. BrowserHistory_Skeleton\02.DOM\obj\Debug\netstandard2.0\02.DOM.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Data Structures Fundamentals with C#\01. BrowserHistory_Skeleton\02.DOM\obj\Debug\netstandard2.0\02.DOM.AssemblyInfoInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\01. BrowserHistory_Skeleton\02.DOM\obj\Debug\netstandard2.0\02.DOM.AssemblyInfo.cs
+D:\SoftUni\Data Structures Fundamentals with C#\01. BrowserHistory_Skeleton\02.DOM\obj\Debug\netstandard2.0\02.DOM.csproj.CoreCompileInputs.cache
+D:\SoftUni\Data Structures Fundamentals with C#\01. BrowserHistory_Skeleton\02.DOM\obj\Debug\netstandard2.0\02.DOM.dll
+D:\SoftUni\Data Structures Fundamentals with C#\01. BrowserHistory_Skeleton\02.DOM\obj\Debug\netstandard2.0\02.DOM.pdb
