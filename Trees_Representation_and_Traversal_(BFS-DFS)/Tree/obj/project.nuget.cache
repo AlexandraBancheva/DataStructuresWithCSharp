@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kNfK8xVEVGspXzt3E4CqNJEtdK+pUJOE6HCtSwmm3IIs3cUcTawziABtuVpmc9nHvVXsKc8wscbJp4P9NKfUog==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni\\Data Structures Fundamentals with C#\\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\\Tree\\Tree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
